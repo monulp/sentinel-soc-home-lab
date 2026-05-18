@@ -1,0 +1,92 @@
+# Incident Report Template
+
+## Incident Details
+| Field | Value |
+|-------|-------|
+| **Date/Time** | |
+| **Analyst** | |
+| **Severity** | Critical / High / Medium / Low |
+| **Status** | Open / Investigating / Resolved |
+| **Alert Source** | Sentinel / Splunk / Wazuh |
+
+---
+
+## Alert Information
+| Field | Value |
+|-------|-------|
+| **Alert Name** | |
+| **Rule Triggered** | |
+| **First Seen** | |
+| **Last Seen** | |
+
+---
+
+## Investigation
+
+### Source
+| Field | Value |
+|-------|-------|
+| **Source IP** | |
+| **Hostname** | |
+| **User Account** | |
+| **Country/Region** | |
+
+### Target
+| Field | Value |
+|-------|-------|
+| **Target System** | |
+| **Target Service** | |
+| **Port** | |
+
+### Timeline of Events
+```
+[HH:MM] Event 1
+[HH:MM] Event 2
+[HH:MM] Event 3
+```
+
+### Evidence
+```
+# Paste relevant log lines here
+```
+
+---
+
+## Verdict
+- [ ] True Positive
+- [ ] False Positive
+- [ ] Benign True Positive
+
+**Root Cause:**
+
+**Affected Systems:**
+
+---
+
+## MITRE ATT&CK Mapping
+| Field | Value |
+|-------|-------|
+| **Tactic** | e.g. Credential Access |
+| **Technique** | e.g. T1110 - Brute Force |
+| **Sub-technique** | e.g. T1110.001 - Password Guessing |
+
+---
+
+## Response Actions
+- [ ] Blocked IP
+- [ ] Isolated system
+- [ ] Reset credentials
+- [ ] Escalated to senior analyst
+- [ ] Notified client
+
+**Actions taken:**
+
+---
+
+## Lessons Learned
+
+**What worked well:**
+
+**What to improve:**
+
+**Rule tuning needed:**
