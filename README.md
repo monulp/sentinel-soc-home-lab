@@ -201,7 +201,7 @@ Step-by-step guides for building this lab from scratch.
 
 | Tutorial | Description | Status |
 |---|---|---|
-| [Tutorial 01 — Lab Setup](tutorials/Tutorial-01-Setup.md) | Digital Ocean droplet, Azure Arc, Sentinel workspace, log ingestion | ✅ Complete |
+| [Tutorial 01 — Lab Setup](https://github.com/monulp/sentinel-soc-home-lab/blob/main/tutorial-docs/01-azure-sentinel-setup.md) | Digital Ocean droplet, Azure Arc, Sentinel workspace, log ingestion | ✅ Complete |
 | Tutorial 02 — Detection Rules | Building custom analytics rules, KQL writing, MITRE mapping | 🔄 In Progress |
 | Tutorial 03 — Attack Simulations | Running Hydra brute force and Gobuster web scans, investigating results | ⬜ Planned |
 | Tutorial 04 — Wazuh EDR | Installing Wazuh as CrowdStrike equivalent, agent deployment | ⬜ Planned |
