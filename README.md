@@ -2,7 +2,7 @@
 
 > A production-grade Security Operations Centre home lab built on live internet-facing infrastructure, designed to develop real-world SOC analyst skills using Microsoft Sentinel, Splunk, and Azure Arc.
 
-![Dashboard](https://github.com/monulp/sentinel-soc-home-lab/tree/main/screenshot)
+![Dashboard](https://github.com/monulp/sentinel-soc-home-lab/blob/main/screenshot/dashboard1.png)
 
 ---
 
